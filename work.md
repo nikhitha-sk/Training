@@ -1,3 +1,5 @@
+Day-1 : 29/05/2026
+
 1. move zero
 2. sort colors - priority queue
 3. Minimum missing number
