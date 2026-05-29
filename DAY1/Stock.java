@@ -3,10 +3,10 @@
 import java.util.*;
  class Stock {
     public static void main(String[] args) {
-        int[] prices = { 7, 1, 5, 3, 6, 4 };
+        int[] prices = {0,10,-1,0};
         int prevmin = Integer.MAX_VALUE;
         int res[] = {-1,-1};
-        int max = 0;
+        int max = Integer.MIN_VALUE;
 
         for(int i=0; i<prices.length; i++){
             int profit = prices[i] - prevmin;
