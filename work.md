@@ -11,3 +11,7 @@ a=a^b
 b=a^b
 a=a^b
 
+Assignment:
+1. Remove duplicates
+2. Third maximum
+3. Pivot index
