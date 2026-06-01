@@ -25,3 +25,4 @@ static block has high priority and it executes before main method.
 .equals
 .equalsIgnoreCase 
 
+OOPS - ensures security and reusability
