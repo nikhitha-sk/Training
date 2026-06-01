@@ -34,4 +34,6 @@ DAY-3 : 01/06/2026
                 bmi > 25 >> age + 5
             18.5 > bmi > 25 >> age
                 Fat rate >> bmi , age, gender
-2. Loan and debits                
+2. Loan and debits  
+3. oops
+4. Climbing stairs            

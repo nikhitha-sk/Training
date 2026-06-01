@@ -1,6 +1,18 @@
 // package DAY3;
-
+ 
 class Patient{
+    
+    public Patient() {
+    }
+
+    public Patient(String name, int age, String gender, double weight, double height) {
+        this.name = name;
+        this.age = age;
+        this.gender = gender;
+        this.weight = weight;
+        this.height = height;
+    }
+
     private String name;
     private int age;
     private String gender;
@@ -101,6 +113,9 @@ public class Health {
         calculate(pat1);
         calculate(pat2);
 
+        Patient patient2 = new Patient("Viaks",43,"male",98,175);
+        calculate(patient2);
+        System.out.println(patient2.getBmi());
+
     }
 }
-

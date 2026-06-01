@@ -26,3 +26,4 @@ static block has high priority and it executes before main method.
 .equalsIgnoreCase 
 
 OOPS - ensures security and reusability
+
