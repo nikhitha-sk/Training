@@ -36,4 +36,20 @@ DAY-3 : 01/06/2026
                 Fat rate >> bmi , age, gender
 2. Loan and debits  
 3. oops
-4. Climbing stairs            
+4. Climbing stairs
+5. Patterns
+
+Assignment3:
+
+1. Power of three
+2. Reverse bits
+3. Single Number
+
+DAY4 - 02/06/2026
+
+1. Using recursion find prefix and postfix sum
+2. Merge two sorted arrays
+3. Find minimum in the rotated sorted array
+4. Inheritance
+5. Abstraction
+6. Interface
