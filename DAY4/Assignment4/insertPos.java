@@ -1,5 +1,5 @@
 
-public class imsertPos{
+public class insertPos{
     public static int search(int[] nums , int target){
         int l = 0, r= nums.length-1;
 
