@@ -53,3 +53,10 @@ DAY4 - 02/06/2026
 4. Inheritance
 5. Abstraction
 6. Interface
+
+
+Assignment4
+
+1. Search insert position
+2. Fair candy swap
+3. Loan Application Management System
