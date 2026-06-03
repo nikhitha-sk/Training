@@ -71,3 +71,9 @@ DAY5 - 03/06/2026
               INFO , DEBUG, ERROR, WARN
 4. Exception handling
 5. Convert word1 to word2  (Edit distance)           
+
+
+Assignment5:
+1. Meeting rooms
+2. House robber
+3. Validate IPv4 using regex, custom exception and logs
