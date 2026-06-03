@@ -60,3 +60,14 @@ Assignment4
 1. Search insert position
 2. Fair candy swap
 3. Loan Application Management System
+
+DAY5 - 03/06/2026
+
+1. Coin change
+2. Non Overlapping intervals
+3. Modifiers - private ,public ,static, default,final,abstract,protected
+3. Loggings - java.uti.Logger 
+              Levels are:
+              INFO , DEBUG, ERROR, WARN
+4. Exception handling
+5. Convert word1 to word2  (Edit distance)           

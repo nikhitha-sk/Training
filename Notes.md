@@ -27,3 +27,32 @@ static block has high priority and it executes before main method.
 
 OOPS - ensures security and reusability
 
+Exceptions are classes
+    ArrayIndexOutOfBoundsException
+    ClassNotFoundEXception
+    InputMismatchException
+    IOException
+    InterruptedException
+
+Compile/Checked exception - handled by developer,checked before execution
+    IOException
+    InterruptedException
+
+Runtime / unchecked exception
+    ArrayIndexOutOfBoundsException
+    ClassNotFoundEXception
+    InputMismatchException
+
+Throwable - interface
+Exception
+RuntimeException - class
+
+Handle the expression
+    try{} - possible lines of code which maybe suspicious
+    catch(){}
+    finally{}
+
+    throws
+    throw - forward the expression
+
+   
