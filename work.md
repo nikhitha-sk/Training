@@ -77,3 +77,14 @@ Assignment5:
 1. Meeting rooms
 2. House robber
 3. Validate IPv4 using regex, custom exception and logs
+
+
+DAY6 - 04/06/2026
+
+1. Longest increasing sequence
+2. Unique path
+3. Longest common subsequence
+4. Collections
+5. Largest Rectangle in Histogram
+6. Least recently used cache (LRU cache)
+7. Sliding window maximum

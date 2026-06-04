@@ -55,4 +55,26 @@ Handle the expression
     throws
     throw - forward the expression
 
-   
+Collection framework:
+    Dynamic memory allocation unlike array.
+
+    Storage classes: can created via legacy , factory pattern
+
+    Iterable
+    Collections
+    List - Arraylist , Linked List
+    Queue - Priority queue , Deque
+    Set - LinkedHashSet , HashSet , TreeSet
+    Map - HashMap , TreeMap , HashTable
+
+    Generic - type specific
+    Non generic - non type specific
+
+    Drawbacks of array:
+        Insecure
+        Fixed size
+        No built in methods
+        
+    Priority queue follow last in first out unlike queue
+
+2, (1,1),(2,2) 
