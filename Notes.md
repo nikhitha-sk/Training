@@ -77,4 +77,3 @@ Collection framework:
         
     Priority queue follow last in first out unlike queue
 
-2, (1,1),(2,2) 

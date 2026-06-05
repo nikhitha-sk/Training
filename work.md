@@ -88,3 +88,18 @@ DAY6 - 04/06/2026
 5. Largest Rectangle in Histogram
 6. Least recently used cache (LRU cache)
 7. Sliding window maximum
+
+
+Assignment6:
+1. Valid parenthesis
+2. Daily Temperature
+
+DAY7 - 05/06/2026
+
+1. Set
+2. Jewels and Stones
+3. Top K frequent elements 
+4. Minimum window substring
+5. Next greater element
+6. Unique Morse code
+7. Longest substring without repeating characters
