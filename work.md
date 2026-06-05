@@ -103,3 +103,8 @@ DAY7 - 05/06/2026
 5. Next greater element
 6. Unique Morse code
 7. Longest substring without repeating characters
+
+Assignment7:
+
+1. Word pattern
+2. Major element
