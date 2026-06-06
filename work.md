@@ -108,3 +108,11 @@ Assignment7:
 
 1. Word pattern
 2. Major element
+
+DAY8 - 06/06/2026
+
+1. Files and directory
+2. Java End-of-File
+3. Serialization
+4. Threads
+5. Fizz Buzz

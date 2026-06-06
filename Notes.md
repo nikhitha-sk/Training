@@ -77,3 +77,35 @@ Collection framework:
         
     Priority queue follow last in first out unlike queue
 
+Files and directory - IO package
+
+Operations : Readers ,writers Streams
+CRUD
+Read - input stream
+write - output stream
+
+Buffered reader and writer
+
+Input stream / read :
+    DataInputStream
+    ObjectOutputStream
+
+Input -> DIS -> FOS -> File
+File -> FIS -> sout
+
+Serialization: 
+    serialize - ObjectOutputStream
+    deserialize - ObjectInputStream
+
+Multithread:
+    Multiple access / thread to the resource class
+    Resource class : class must inherit either Thread class / runnable interface
+    public void run(){}
+
+Thread Life cycle:
+    created/born
+    Execute - run/start
+    waiting - sleep/wait
+    abort - stop
+
+
