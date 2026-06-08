@@ -108,4 +108,11 @@ Thread Life cycle:
     waiting - sleep/wait
     abort - stop
 
+Lambda expression:
+    (parameter1  ,parameter2) -> {}
+    parameter -> {}
 
+Method reference:
+
+
+Functional Interface

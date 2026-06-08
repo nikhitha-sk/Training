@@ -116,3 +116,14 @@ DAY8 - 06/06/2026
 3. Serialization
 4. Threads
 5. Fizz Buzz
+
+
+DAY9 - 08/06/2026
+
+1. Lamda Expression
+2. Method reference
+3. Functional interface
+4. Thread problem
+5. Find words containing character
+6. Store pojo is in list and find out which object has price more than 5000.
+7. First Missing positive - (41)
