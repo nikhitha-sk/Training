@@ -127,3 +127,14 @@ DAY9 - 08/06/2026
 5. Find words containing character
 6. Store pojo is in list and find out which object has price more than 5000.
 7. First Missing positive - (41)
+
+
+DAY10 - 09/06/2026
+
+1. Generics
+2. Ternary Search
+3. Generic method problem
+4. Quick sort
+5. Immutable
+6. Solid principles
+
