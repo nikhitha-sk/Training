@@ -138,3 +138,13 @@ DAY10 - 09/06/2026
 5. Immutable
 6. Solid principles
 
+DAY11 - 10/06/2026
+
+1. MySQL - queries - join
+2. Aggregate functions
+3. DCL - grant, revoke
+4. Java project setup
+
+DAY12 - 11/06/2026
+
+1. Java project

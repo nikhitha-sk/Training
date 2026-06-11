@@ -188,4 +188,58 @@ TCL - Transaction
 
 
 Normal Forms: 
+
+
+JOIN 
+Select columns from left table join right table on condition
+
+FULL JOIN - returns all the rows when there is match in either left or right table(not supported in MySQL)
+            UNION of left and right
+
+
+Java project setup:
+    tools: maven , gradle
+        distributed structure : source , test, image
+        dependency management: pom.xml(project object model.xml) - project properties like <artifact>,<group>
+                                                                    <dependencies><build>
+        
+        deployment: java achieve rar / web archieve rar 
+            maven goals/ commands
+            mvn clean >> compile, download reqquired dependency
+            mvn package >> jar/war  
+            mvn test >> push to remote repo
+            mvn test >> execute only test files
+
+    maven dependencies :
+        remote: mvn.repository.com >> 55M libraries
+                search for >> copy snippet look follows
+                <dependency>
+                    <group-id></group-id>
+                    <artifact-id></artifact-id>
+                </dependency>
+                paste inside dependencies section of pom.xml
+                local:c//users//ADMIN//.m2
+
+Maven project: 
+    archetypes >> quick-start(CLI) ,  web
+    src:
+        main
+            java - source code
+                group.id >> package
+                    App.java
+            resources - keep static files , application.properties
+
+        test
+            java>>test files(Junit , Mockito)
+    target
+        generate, surface report , jar/war
+    pom.xml - configuration file
+
+control panel - maven switch to flat view
+
+mvn repository - mysql connector j 
+
+inside pom.xml
+    <build>
     
+    </build>
