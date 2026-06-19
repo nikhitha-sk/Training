@@ -1,7 +1,7 @@
 public class climbStairs {
     
     public static int stair(int n){
-        if( n <= 2) return 2;
+        if( n <= 2) return n;
 
         int[] dp = new int[n+1];
 

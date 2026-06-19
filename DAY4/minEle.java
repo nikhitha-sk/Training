@@ -6,7 +6,7 @@ public class minEle {
         int[] nums = {11,12,13,14};
         // int[ ]nums = {3,4,1,2};
 
-        if(nums[0] < nums[nums.length-1])
+        if(nums.length == 1 || nums[0] < nums[nums.length-1])
             System.out.println(nums[0]);
 
         for(int i=1; i < nums.length; i++){
@@ -15,5 +15,6 @@ public class minEle {
                 break;
             }
         }
+        //return nums
     }
 }
